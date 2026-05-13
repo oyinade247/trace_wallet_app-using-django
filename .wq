@@ -1,0 +1,16 @@
+SECRET_KEY='django-insecure-at36)7-wh!37m02ftc93$8h=69(@0w&((uv*bz^tn0yn%=jj*n'
+DEBUG=FALSE
+ALLOWED_HOSTS=localhost
+
+DB_USER=traceuser
+DB_ROOT_PASSWORD=StrongPassword123!
+DB_PORT=3306
+DB_HOST=db
+DB_NAME=tracewallet_db
+EMAIL_PORT=587
+EMAIL_HOST_USER='adedokunoyinade@gmail.com'
+EMAIL_HOST_PASSWORD='zhnswenbscolzevn'
+DEFAULT_FROM_EMAIL='adedokunoyinade@gmail.com'
+
+PAYSTACK_PUBLIC_API=pk_test_b0ebef2bd37997d1db712908eb5f685ad47e8580
+PAYSTACK_SECRET_KEY=sk_test_ca1c039ce8b8fe38a2316008b88424769efb1161

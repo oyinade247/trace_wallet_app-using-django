@@ -18,5 +18,3 @@ def get_dashboard_data(user):
         "transactions": transactions
     }
 
-
-
